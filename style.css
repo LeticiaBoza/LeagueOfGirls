@@ -1,0 +1,22 @@
+.text{
+    text-align: justify;
+    margin: 3%
+  }
+  .tamanho{
+    width: 700px;
+    margin-left: 3%;
+    padding-bottom: 50px;
+  }
+  .carrosel1{
+    display: flex;
+  }
+  .segundo{
+    padding-top: 80px;
+  }
+  .nami{
+    margin-right: 3%;
+  }
+  .fixo{
+    position: fixed;
+    top: 0;
+  }
